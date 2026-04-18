@@ -43,8 +43,8 @@ The toolkit is organized into several key domains, each containing specialized s
 To explore or use these skills in your local environment:
 
 ```bash
-git clone https://github.com/xushuodasd/AI-Skill-Toolkit.git
-cd AI-Skill-Toolkit
+git clone https://github.com/xushuodasd/AI-Skill-Toolkit-AI-Agent-.git
+cd AI-Skill-Toolkit-AI-Agent-
 ```
 
 Each skill folder contains a `SKILL.md` file with detailed documentation on its purpose, parameters, and usage examples.

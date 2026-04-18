@@ -43,8 +43,8 @@ AI-Skill-Toolkit 是一个精心策划的模块化、高性能技能仓库，旨
 在本地环境探索或使用这些技能：
 
 ```bash
-git clone https://github.com/xushuodasd/AI-Skill-Toolkit.git
-cd AI-Skill-Toolkit
+git clone https://github.com/xushuodasd/AI-Skill-Toolkit-AI-Agent-.git
+cd AI-Skill-Toolkit-AI-Agent-
 ```
 
 每个技能文件夹中都包含一个 `SKILL.md` 文件，详细记录了该技能的用途、参数及使用示例。
