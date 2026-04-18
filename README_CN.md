@@ -1,5 +1,10 @@
 # AI-Skill-Toolkit 🧰
 
+<p align="left">
+  <a href="README_CN.md"><b>中文文档</b></a> |
+  <a href="README.md"><b>English</b></a>
+</p>
+
 > **生产级 AI Agent 技能库与工具集**
 
 AI-Skill-Toolkit 是一个精心策划的模块化、高性能技能仓库，旨在为现代 AI Agent 和自动化开发环境（如 Trae, Claude Code, Cursor）提供功能扩展。该工具集为增强 AI 模型在各个专业领域的实际执行能力提供了一套结构化的方案。

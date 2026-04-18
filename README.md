@@ -1,5 +1,10 @@
 # AI-Skill-Toolkit 🧰
 
+<p align="left">
+  <a href="README_CN.md"><b>中文文档</b></a> |
+  <a href="README.md"><b>English</b></a>
+</p>
+
 > **A Comprehensive Collection of Production-Ready AI Agent Skills**
 
 AI-Skill-Toolkit is a curated repository of modular, high-performance skills designed for modern AI agents and autonomous development environments (such as Trae, Claude Code, and Cursor). This toolkit provides a structured way to extend the capabilities of AI models across various professional domains.
@@ -38,7 +43,7 @@ The toolkit is organized into several key domains, each containing specialized s
 
 ---
 
-## � Getting Started
+## 🛠️ Getting Started
 
 To explore or use these skills in your local environment:
 
@@ -51,7 +56,7 @@ Each skill folder contains a `SKILL.md` file with detailed documentation on its 
 
 ---
 
-## �️ Design Principles
+## 🛡️ Design Principles
 
 1. **Modular**: Skills are self-contained and easy to plug into various systems.
 2. **Efficient**: Optimized for token usage and execution speed.
