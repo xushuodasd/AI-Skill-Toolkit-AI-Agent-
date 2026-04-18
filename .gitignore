@@ -1,0 +1,50 @@
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+.eslintcache
+.stylelintcache
+.prettiercache
+.turbo/
+.vercel/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Rust
+target/
+
+# IDEs
+.vscode/
+.idea/
+.project
+.settings
+.classpath
+.factorypath
+.trae/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project Specific
+*.zip
+*.tar.gz
+*.rar
+*.7z
+skills/video-remotion-src/
+temp/
+tmp/
+*.log
